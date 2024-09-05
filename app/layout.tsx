@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'ChatBot',
-  description: 'Chatbot using usellm which is Integrate large language models like ChatGPT and add AI-powered features to your React applications in minutes.',
+  description: 'Chatbot using usellm which is Integrate large language models like ChatGPT and add AI-powered features to your React applications in some minutes.',
 }
 
 export default function RootLayout({
